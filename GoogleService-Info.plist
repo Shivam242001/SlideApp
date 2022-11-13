@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>983620710132-e212asfl20jh8v1ae2uku05771ogcvl3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.983620710132-e212asfl20jh8v1ae2uku05771ogcvl3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDO-Y7UPUr7BnEs9IkOnBoNpmpHDji_sLs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>983620710132</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.semicolomn.SlideCheeseHacks</string>
+	<key>PROJECT_ID</key>
+	<string>slidecheesehacks</string>
+	<key>STORAGE_BUCKET</key>
+	<string>slidecheesehacks.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:983620710132:ios:f4f9fc61d80fc6a401b8a1</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Please allow access.</string>
+</dict>
+</plist>
